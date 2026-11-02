@@ -2,7 +2,7 @@
 
 make a folder name ".vscode" in your project, then a "settings.json" file and copy-paste this on it:
 
-```lua
+```json
 {
 	"Lua.runtime.version": "LuaJIT",
 	"Lua.diagnostics.disable": [
