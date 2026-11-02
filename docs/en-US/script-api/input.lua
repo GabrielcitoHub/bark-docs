@@ -6,7 +6,7 @@ local input = {}
 --#region Input — Mouse & Keys
 
 -- Mouse position in world coordinates.
----@return number, number
+---@return Vector2
 function input:GetMousePosition() end
 
 -- Readable name, e.g. Mouse0 → Left Click.
