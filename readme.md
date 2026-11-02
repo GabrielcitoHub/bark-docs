@@ -24,7 +24,7 @@ if you already have a "settings.json" then you should only append the library to
 
 ```json
 "Lua.workspace.library": [
-    "<your-library>",
+    "<your-libraries>",
 	"${workspaceFolder}/docs/en-US/script-api",
 ]
 ```
